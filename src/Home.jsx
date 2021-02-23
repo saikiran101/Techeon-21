@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import web from "../src/images/bg.png";
+import web from "../src/images/main p.jpg";
 import Common from "./Common";
 
 const Home = () => {
