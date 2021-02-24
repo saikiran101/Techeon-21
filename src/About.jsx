@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import PG from "../src/images/pg.svg";
+import PG from "../src/images/main p.jpg";
 import Common from "./Common";
 
 const About = () => {
@@ -10,7 +10,7 @@ const About = () => {
         name="Welcome to About page"
         imgsrc={PG}
         visit="/Contact"
-        btname="Contact Now"
+        btname="Back"
       />
     </>
   );
